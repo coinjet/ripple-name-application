@@ -1,4 +1,4 @@
-ripple-name-application
+divvy-name-application
 =======================
 
 #### setup
